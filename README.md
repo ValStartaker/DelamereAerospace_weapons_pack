@@ -18,8 +18,7 @@ This laser-guided anti-armour rocket contains no high explosive but instead pier
 | Guidance|  Laser|
 | Burn time|  6s|
 | ΔV|  5255km/h|
-| Range|  15km|
-| Top speed|  M3.2|
+| Range|  9km|
 
 
 # ARAD-116N (1.5kt)
@@ -37,4 +36,3 @@ This anti-radiation missile is fitted with a 1.5kt nuclear warhead for the destr
 | Burn time|  12s|
 | ΔV|  3461km/h|
 | Range|  60km|
-| Top speed|  M3.2|
